@@ -37,9 +37,11 @@ Visitors are invited to interact with the installation using 3 "antennas" (made 
 Il codice è disponibile nella cartella "Arduino". 
 I modelli 3d delle parti in plastica sono disponibili nella cartella "STL"
 C'è anche un codice in Processing per testate la sensibilità delle antenne, nella cartella "Processing".
+
 //
- Code is available in the "Arduino" folder.
- 3d models of the plastic parts are available in the "STL" folder.
+
+Code is available in the "Arduino" folder.
+3d models of the plastic parts are available in the "STL" folder.
 In the folder "Processing" there is a Processing code to test the proximity sensors.
 
 ##Interazione // Interaction
