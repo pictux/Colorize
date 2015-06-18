@@ -45,8 +45,7 @@ Code is available in the "Arduino" folder.
 In the folder "Processing" there is a Processing code to test the proximity sensors.
 
 ##Interazione // Interaction
-![Chiara Toninello during TedX Padova](https://lh3.googleusercontent.com/RKD9s8VSOoCSsZyhQqPfjQ6AoFJxbFD-O7hZUWSLEOZz=s0 "10628526_1066078363420480_8985080849452703636_n.jpg")
-
+![Interactions TedX Padova 2015](https://lh3.googleusercontent.com/Bnk52Ax9OObUDT3xJGoqjDoVXYrhLGwXAbAw5EKbUIGF=s600 "image150.jpg")
 
 
 ##Dietro le quinte // Backstage
