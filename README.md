@@ -58,9 +58,9 @@ http://bit.ly/Colorize_Gallery
 
 
 ##Credits
-Concept, HW & SW : Gloria Spagnolo & Mirco Piccin @ Xuni
+Concept, Design HW & SW : Gloria Spagnolo & Mirco Piccin @ Xuni
 
-Design : Tiziano Maffione
+Graphic Design : Tiziano Maffione
 
 Vinil Cutting & Placement, Stencils : Marco Filippi @ ImageCar
 
